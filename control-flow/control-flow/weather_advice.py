@@ -10,3 +10,4 @@ match weather:
 
     case _:
         print("Sorry, I don't have recommendations for this weather.")
+        #run
